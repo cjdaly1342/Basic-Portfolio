@@ -1,0 +1,73 @@
+* {
+	box-sizing: border-box;
+}
+
+#Header {
+
+	
+	padding: 20px;
+}
+#AboutMe{
+	position: fixed;
+	top: 0;
+	padding: 20px;
+	margin-left: 20px;
+	size: 300px;
+	text-align: center;
+	background: #4aaaa5;
+	font-size: 32px;
+	color: white;
+	font-family: 'Georgia';
+}
+
+#ContactList {
+	display:inline;
+	float: right;
+	font-size: 24px;
+	font-family: 'Times';
+	text-decoration-style: none;
+	
+}
+/**a {
+
+		display: block;
+		padding: 20px;
+		background-color: #cccccc;
+
+		}**/
+
+#MainBody {
+			clear: both;
+			margin: 0 auto;
+			position: relative;
+			width: 600px;
+			background: #eee;
+			float: left;
+			margin-left: 20px;
+	
+}
+
+h1 {
+	font-size: 26px;
+	font-family: 'Times New Roman';
+	text-align: center;
+	padding: 20px;
+	color: #4aaaa5;
+
+
+}
+
+p {
+	clear: both;
+	padding: 20px;
+	margin-bottom: 20px;
+
+
+}
+
+#paragraph {
+	clear: both;
+	margin-bottom: 20px;
+	font-size: 18px;
+	line-height: 28px;
+}
